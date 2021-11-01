@@ -1,5 +1,5 @@
 #Credit: https://github.com/Area69Lab
-#setup.sh VNC_USER_PASSWORD VNC_PASSWORD NGROK_AUTH_TOKEN
+#setup.sh Alone215 Alone215 NGROK_AUTH_TOKEN
 
 #disable spotlight indexing
 sudo mdutil -i off -a
